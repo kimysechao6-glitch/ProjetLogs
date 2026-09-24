@@ -1,6 +1,6 @@
 <?php
 require_once __DIR__ . '/helpers.php';
-include "logger.php";
+require_once __DIR__ . '/logger.php';
 require_login();
 $user = current_user();
 

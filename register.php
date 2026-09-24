@@ -1,6 +1,6 @@
 <?php
 require_once __DIR__ . '/helpers.php';
-include "logger.php";
+require_once __DIR__ . '/logger.php';
 if (current_user()) { header('Location: /'); exit; }
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {

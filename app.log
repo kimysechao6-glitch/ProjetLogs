@@ -10,3 +10,12 @@
 [2026-09-24 15:45:48] - INFO - 192.168.1.157 - Paul - Publication de post:ECHEC
 [2026-09-24 16:11:22] - INFO - 192.168.1.157 - Paul - Paul a unfollow user09876 : SUCCES
 [2026-09-24 16:11:35] - INFO - 192.168.1.157 - Paul - Paul a follow user09876 : SUCCES
+[2026-09-24 17:13:34] - INFO - 192.168.1.157 - paulhenri - Tentative de connexion : ECHEC
+[2026-09-24 17:13:41] - INFO - 192.168.1.157 - jean - Tentative de connexion : ECHEC
+[2026-09-24 17:13:48] - INFO - 192.168.1.157 - jeanpierre - Tentative de connexion : SUCCES
+[2026-09-24 17:14:42] - INFO - 192.168.1.157 - jeanpierre - Tentative de connexion : SUCCES
+[2026-09-24 17:15:00] - INFO - 192.168.1.157 - jeanpierre - Modification du profil : SUCCES
+[2026-09-24 17:16:28] - INFO - 192.168.1.157 - jeanpierre - Tentative de connexion : SUCCES
+[2026-09-24 17:16:31] - INFO - 192.168.1.157 - jeanpierre - Déconnexion : SUCCES
+[2026-09-24 17:17:04] - INFO - 192.168.1.157 - paul - Tentative de connexion : SUCCES
+[2026-09-24 17:17:09] - INFO - 192.168.1.157 - Paul - Publication de post : SUCCES
