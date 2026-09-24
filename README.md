@@ -27,3 +27,7 @@ Ce mini-twitter *ne log rien* volontairement, afin que vos étudiant·e·s ajout
 - Exposer une page d’administration des logs ou exporter vers un SIEM.
 
 > Le code actuel n’écrit **aucun** log.
+
+## Contributeurs
+- Kimy SECHAO
+- Nills MAILLET
