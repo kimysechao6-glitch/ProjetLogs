@@ -4,5 +4,6 @@ include 'helpers.php';
 include 'logger.php';
 session_destroy();
 header('Location: /');
-write_log ("INFO", current_user()['username'], "Déconnexion du compte", "SUCCES");
+$user = current_user()['username'];
+write_log ("INFO", $user, "Déconnexion du compte", "SUCCES");
 exit;
